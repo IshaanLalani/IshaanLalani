@@ -1,6 +1,6 @@
 ### Hi there, I'm Ishaan Lalani 👋
 
-I'm an undergraduate student studying **Computer Science** with a focus on **Data Science** at DHA Suffa University, and a Data & Technology Research Analyst Intern at Shah Tech. I enjoy bridging the gap between data analytics, backend systems, and secure software development.
+I'm an undergraduate student studying **Computer Science** with a focus on **Data Science** at DHA Suffa University. I enjoy bridging the gap between data analytics, backend systems, and secure software development.
 
 * 💻 **Core Tech:** Python, Java, SQL, Power BI
 * 🔍 **Interests:** Data Science, Database Management, Cybersecurity, and Business Intelligence
